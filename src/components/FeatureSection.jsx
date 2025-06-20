@@ -96,7 +96,7 @@ const FeatureSection = () => {
           className="w-full hidden md:block"
         />
 
-        <div className="bg-[#f5faff] py-10 px-6 md:px-[100px] flex flex-col md:flex-row-reverse items-center gap-10">
+        <div className="bg-[#f5faff] py-1 px-6 md:px-[100px] flex flex-col md:flex-row-reverse items-center gap-10">
           {/* Image */}
           <div className="w-full md:w-1/2">
             <img src={Users} alt="Your Users" className="w-full" />
