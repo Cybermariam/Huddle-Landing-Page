@@ -2,7 +2,7 @@ import Logo from '../src/assets/images/logo.svg';
 const Header = () => {
   return (
     <div>
-      <nav className="max-w-[1440px] mx-auto flex items-center justify-between px-6 py-4 md:px-16 md:py-6">
+      <nav className="max-w-[1440px] mx-auto flex items-center justify-between px-6 py-4 md:px-16 md:py-6 gap-2">
         <img
           src={Logo}
           className="w-[150px] md:w-[180px] lg:w-[250px]"
