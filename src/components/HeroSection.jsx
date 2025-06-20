@@ -30,7 +30,7 @@ import ScreenImage from '../assets/images/screen-mockups.svg';
 const HeroSection = () => {
   return (
     <header className="flex flex-col items-center px-6 text-center">
-      <h1 className="text-3xl md:text-4xl lg:text-5xl pb-4 text-[#00252e] max-w-sm md:max-w-3xl lg:max-w-6xl">
+      <h1 className="text-4xl md:text-4xl lg:text-5xl pb-4 text-[#00252e] max-w-sm md:max-w-3xl lg:max-w-6xl">
         Build The Community Your Fans Will Love
       </h1>
       <p className="mt-5 text-lg md:text-lg lg:text-2xl text-[#00252e] max-w-3xl">
